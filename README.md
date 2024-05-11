@@ -46,16 +46,26 @@
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hamzakhanmarwat&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hamzakhanmarwat&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzakhanmarwat&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=hamzakhanmarwat&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hamzakhanmarwat&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
 
-</td><td valign="top" width="50%">
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzakhanmarwat&hide_border=true&layout=compact" align="right" /></div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=hamzakhanmarwat&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-</td></tr></table>  
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=hamzakhanmarwat&icon=5&color=8)](https://visitcount.itsvg.in)
+
 
 <br/>  
 
