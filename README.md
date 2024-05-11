@@ -20,10 +20,6 @@
 
 <br/>  
 
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=hamzakhanmarwat&&style=flat-square" align="center" />
-</div>  
-
 <br/>  
 
 ## Languages and Tools  
@@ -61,13 +57,18 @@
 <div align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
 </div>
+<br>
 
+</br>
 
 <div align="center">
     <img src="https://github-contributor-stats.vercel.app/api?username=hamzakhanmarwat&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </div>
 
+<br>
 
+</br>
+## Random Meme
 <div align="center">
     <img src="https://memer-new.vercel.app/" style="height: 400px;" />
 </div>
