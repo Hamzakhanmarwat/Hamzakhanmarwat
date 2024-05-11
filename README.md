@@ -57,9 +57,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=hamzakhanmarwat&theme=onestar&no-frame=true&no-bg=false&margin-w=4" />
 </div>
 
-<div align="center">
-    ## Languages and Tools  
-</div>
+## Qoute of the Day.
 <div align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
 </div>
