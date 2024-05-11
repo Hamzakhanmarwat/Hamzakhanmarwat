@@ -29,11 +29,17 @@
 ## Languages and Tools  
 
 <div align="center">  
-    <a href="https://www.cprogramming.com/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
-    </a>  
-    <!-- Add other language and tool icons here -->
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
+<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>  
 </div>  
+
+<br/>  
 
 <br/>  
 
@@ -51,24 +57,31 @@
     <img src="https://github-profile-trophy.vercel.app/?username=hamzakhanmarwat&theme=onestar&no-frame=true&no-bg=false&margin-w=4" />
 </div>
 
-### ✍️ Random Dev Quote
 
 <div align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
 </div>
 
-### 🔝 Top Contributed Repo
 
 <div align="center">
     <img src="https://github-contributor-stats.vercel.app/api?username=hamzakhanmarwat&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </div>
 
-### 😂 Random Dev Meme
 
 <div align="center">
     <img src="https://memer-new.vercel.app/" style="height: 400px;" />
 </div>
 
----
+[![](https://visitcount.itsvg.in/api?id=hamzakhanmarwat&icon=5&color=8)](https://visitcount.itsvg.in)
 
-[![Visits](https://visitcount.itsvg.in/api?id=hamzakhanmarwat&icon=5&color=8)](https://visitcount.itsvg.in)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>  
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=m5s7ihitzxxj4ltemeueibms8&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" align="center" style="width: 100%" />  
+
+<br/>  
+
+
+<br />
+
+
