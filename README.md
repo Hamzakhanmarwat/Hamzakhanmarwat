@@ -59,9 +59,10 @@
 
 <br/>  
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=m5s7ihitzxxj4ltemeueibms8&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true" align="center" style="width: 100%" />  
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=m5s7ihitzxxj4ltemeueibms8&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" align="center" style="width: 100%" />  
 
 <br/>  
 
 
 <br />
+
