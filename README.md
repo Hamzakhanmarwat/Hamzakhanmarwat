@@ -46,25 +46,38 @@
 <br/>  
 
 
-<div style="text-align: center;">
+<div align="center">
     # 📊 GitHub Stats:
     ![](https://github-readme-stats.vercel.app/api?username=hamzakhanmarwat&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
     ![](https://github-readme-streak-stats.herokuapp.com/?user=hamzakhanmarwat&theme=chartreuse-dark&hide_border=false)<br/>
     ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzakhanmarwat&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
+<div align="center">
     ## 🏆 GitHub Trophies
     ![](https://github-profile-trophy.vercel.app/?username=hamzakhanmarwat&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
+</div>
 
+<div align="center">
     ### ✍️ Random Dev Quote
     ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+</div>
 
+<div align="center">
     ### 🔝 Top Contributed Repo
     ![](https://github-contributor-stats.vercel.app/api?username=hamzakhanmarwat&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
+<div align="center">
     ### 😂 Random Dev Meme
     <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 </div>
 
+
+---
+[![](https://visitcount.itsvg.in/api?id=hamzakhanmarwat&icon=5&color=8)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <br/>  
 
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=m5s7ihitzxxj4ltemeueibms8&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" align="center" style="width: 100%" />  
