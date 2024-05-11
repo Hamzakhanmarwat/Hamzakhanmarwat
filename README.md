@@ -68,15 +68,15 @@
 <br>
 
 </br>
-## Random Meme
+## Random Memes
 
 <div align="center">
     <img src="https://memer-new.vercel.app/" style="height: 400px;" />
 </div>
 
-<div align="center">
+
 [![](https://visitcount.itsvg.in/api?id=hamzakhanmarwat&icon=5&color=8)](https://visitcount.itsvg.in)
-</div>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <br/>  
 
