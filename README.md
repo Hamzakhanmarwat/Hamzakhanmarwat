@@ -58,7 +58,7 @@
 </div>
 
 <div align="center">
-    ## Quote of the day
+    ## Languages and Tools  
 </div>
 <div align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
