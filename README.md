@@ -1,94 +1,83 @@
+<h2 align="left">Hi 👋! My name is Hamza, and I'm a Game Developer.</h2>
 
-![Hi]()
-
-
-<br>
-</br>
-💪 In 2nd year of University
-
-🎯Main Goal is to learn Unity and work with open source projects.
-
-💻Focusing to achieve my goals. (will get distracted by a good game🎮)
+###
 
 <div align="center">
-    <a href="https://github.com/Hamzakhanmarwat" target="_blank">
-        <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-hamza-khan-4ab661297/" target="_blank">
-        <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://instagram.com/https://www.instagram.com/hamzachan69" target="_blank">
-        <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-    </a>  
+  <img src="https://profile-counter.glitch.me/Hamzakhanmarwat/count.svg?"  />
 </div>
 
-<br/>  
-
-<br/>  
-
-## Languages and Tools  
-
-<div align="center">  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
-<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>  
-</div>  
-
-<br/>  
-
-<br/>  
-
-# 📊 GitHub Stats:
+###
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=hamzakhanmarwat&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzakhanmarwat&theme=chartreuse-dark&hide_border=false" /><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzakhanmarwat&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hamzakhanmarwat&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hamzakhanmarwat&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-## 🏆 GitHub Trophies
+###
 
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=hamzakhanmarwat&theme=onestar&no-frame=true&no-bg=false&margin-w=4" />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" height="30" alt="msdos logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pr" height="30" alt="adobepremierepro logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ae" height="30" alt="adobeaftereffects logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="30" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/blender/F5792A" height="30" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
 </div>
 
-## Quote of the Day.
-<div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
+###
+
+<img align="left" height="149" src="https://steamuserimages-a.akamaihd.net/ugc/99473352455909862/9CD9997DCCB227432D551440FF1E79509D225D1E/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
+
+###
+
+<div align="left">
+  <a href="https://wa.me/+923478479617" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
+  <a href="https://discordapp.com/users/700385879109271672" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="Muhammadhamzakhanmarwat@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="www.linkedin.com/in/muhammad-hamza-khan-4ab661297" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
-<br>
 
-</br>
+###
 
-<div align="center">
-    <img src="https://github-contributor-stats.vercel.app/api?username=hamzakhanmarwat&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</div>
+<br clear="both">
 
-<br>
+<img src="https://raw.githubusercontent.com/Hamzakhanmarwat/Hamzakhanmarwat/output/snake.svg" alt="Snake animation" />
 
-</br>
-
-## Random Memes
-<div align="center">
-    <img src="https://memer-new.vercel.app/" style="height: 400px;" />
-</div>
-
-
-[![](https://visitcount.itsvg.in/api?id=hamzakhanmarwat&icon=5&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<br/>  
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=m5s7ihitzxxj4ltemeueibms8&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" align="center" style="width: 100%" />  
-
-<br/>  
-
-
-<br />
-
-
+###
