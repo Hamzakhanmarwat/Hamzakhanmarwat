@@ -2,15 +2,44 @@
 
 ###
 
+<p align="left"></p>
+
+###
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/Hamzakhanmarwat/count.svg?"  />
 </div>
 
 ###
 
+<h1 align="left">📉Metrics & Stats📈</h1>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hamzakhanmarwat&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hamzakhanmarwat&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h1 align="left">Tools & Languages💻</h1>
+
+###
+
+<div align="left">
+  <a href="https://wa.me/+923478479617" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
+  <a href="https://discordapp.com/users/700385879109271672" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="Muhammadhamzakhanmarwat@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="www.linkedin.com/in/muhammad-hamza-khan-4ab661297" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
@@ -55,28 +84,6 @@
 
 ###
 
-<img align="left" height="149" src="https://steamuserimages-a.akamaihd.net/ugc/99473352455909862/9CD9997DCCB227432D551440FF1E79509D225D1E/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
-
-###
-
-<div align="left">
-  <a href="https://wa.me/+923478479617" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-  <a href="https://discordapp.com/users/700385879109271672" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="Muhammadhamzakhanmarwat@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="www.linkedin.com/in/muhammad-hamza-khan-4ab661297" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
+<img align="left" height="149" src="https://shorturl.at/3prNA"  />
 
 ###
